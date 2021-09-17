@@ -19,12 +19,12 @@ for i in range(n - 1, 0, -1):
     circle[i].append(i + 1)
 
 
-yosepus = []
+josephus = []
 
 pop_people = k  # k명에서 시작
 
 for i in range(n):
-    yosepus.append(pop_people)
+    josephus.append(pop_people)
     prev, next = circle[pop_people]
     circle[prev][1] = next
     circle[next][0] = prev
@@ -38,5 +38,5 @@ for i in range(n):
         다음 k번 후 사람을 나아가며 찾음
         '''
 
-yosepus_permutation = ', '.join(list(map(str, yosepus)))
-print(f'<{yosepus_permutation}>')
+josephus_permutation = ', '.join(list(map(str, josephus)))
+print(f'<{josephus_permutation}>')
