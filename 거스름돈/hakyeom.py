@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/14916
 import sys
 
 money = int(sys.stdin.readline())
