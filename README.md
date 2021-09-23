@@ -18,3 +18,10 @@ Algorithm study of lost cows
 |1|Data Structure|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|1158|
 |2|Data Structure2|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|1620|
 |3|Tree|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|11725|
+|4|Math|[공약수](https://www.acmicpc.net/problem/5618)|5618|
+|5|Greedy|[거스름돈](https://www.acmicpc.net/problem/14916)|14916|
+|6|DP 1|[피보나치수5](https://www.acmicpc.net/problem/10870)|10870|
+|7|DP 2|[주지수](https://www.acmicpc.net/problem/15724)|15724|
+|8|Two Pointer|[배열합치기](https://www.acmicpc.net/problem/11728)|11728|
+|9|Implementation|[상어초등학교](https://www.acmicpc.net/problem/21608)|21608|
+|10|Graph Traversal|[바이러스](https://www.acmicpc.net/problem/2606)|2606|
