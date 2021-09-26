@@ -18,7 +18,6 @@ circle[n].append(1)
 for i in range(n - 1, 0, -1):
     circle[i].append(i + 1)
 
-
 josephus = []
 
 pop_people = k  # k명에서 시작
