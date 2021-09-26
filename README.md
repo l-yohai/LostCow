@@ -25,3 +25,16 @@ Algorithm study of lost cows
 |8|Two Pointer|[배열합치기](https://www.acmicpc.net/problem/11728)|11728|
 |9|Implementation|[상어초등학교](https://www.acmicpc.net/problem/21608)|21608|
 |10|Graph Traversal|[바이러스](https://www.acmicpc.net/problem/2606)|2606|
+|11|Brute Force|[피로도](https://www.acmicpc.net/problem/22864)|22864|
+|12|Simulation|[인구이동](https://www.acmicpc.net/problem/16234)|16234|
+|13|Binary Search|[수들의합](https://www.acmicpc.net/problem/1789)|1789|
+|14|Backtracking|[N과 M(1)](https://www.acmicpc.net/problem/15649)|15649|
+|15|Divide and conquer|[색종이 만들기](https://www.acmicpc.net/problem/2630)|2630|
+|16|Prefix Sum|[귀찮아 (SIB)](https://www.acmicpc.net/problem/14929)|14929|
+|17|String|[경고](https://www.acmicpc.net/problem/3029)|3029|
+|18|Shortest Path|[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|18352|
+|19|Topological Sorting|[선수과목](https://www.acmicpc.net/problem/14567)|14567|
+|20|Disjoint Set|[집합의 표현](https://www.acmicpc.net/problem/1717)|1717|
+|21|Minimum Spanning Tree|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|1197|
+|22|Trie|[문자열 집합](https://www.acmicpc.net/problem/14425)|14425|
+|23|DP on Trees|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|15681|
