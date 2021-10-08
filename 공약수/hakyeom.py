@@ -22,6 +22,11 @@ for divisor in max_divisors[::-1]:
     max_divisors.append(max_number // divisor)
 
 '''
+6 ->
+1, 2
+6//1, 6// 2
+
+
 제곱근이 나눠 떨어지는 경우 ex) 4
 위의 로직에서는 max_divisor가 1,2,2,4 가 나오게된다.
 중복을 없애기 위해 set으로 변경
