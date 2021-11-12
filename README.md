@@ -13,6 +13,7 @@ Algorithm study of lost cows
 
 ## Schedule
 
+<details>
 |순서|Tag|문제이름|백준번호|
 |:--:|:--:|:--:|:--:|
 |1|Data Structure|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|1158|
@@ -38,3 +39,32 @@ Algorithm study of lost cows
 |21|Minimum Spanning Tree|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|1197|
 |22|Trie|[문자열 집합](https://www.acmicpc.net/problem/14425)|14425|
 |23|DP on Trees|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|15681|
+</details>
+
+|순서|Tag|문제이름|백준번호|
+|:--:|:--:|:--:|:--:|
+
+|24|Data Structure|[스택](https://www.acmicpc.net/problem/10828)|10828|
+|25|Data Structure2|[문자열 집합](https://www.acmicpc.net/problem/14425)|14425|
+|26|Tree|[트리 순회](https://www.acmicpc.net/problem/1991)|1991|
+|27|Math|[피로도](https://www.acmicpc.net/problem/22864)|22864|
+|28|Greedy|[폴리오미노](https://www.acmicpc.net/problem/1343)|1343|
+|29|DP 1|[설탕 배달](https://www.acmicpc.net/problem/2839)|2839|
+|30|DP 2|[동전](https://www.acmicpc.net/problem/9084)|9084|
+|31|Two Pointer|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|11659|
+|32|Implementation|[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|21611|
+|33|Graph Traversal|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|1260|
+|34|Brute Force|[블랙잭](https://www.acmicpc.net/problem/2798)|2798|
+|35|Simulation|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|20056|
+|36|Binary Search|[정수 제곱근](https://www.acmicpc.net/problem/2417)|2417|
+|37|Backtracking|[N과 M(2)](https://www.acmicpc.net/problem/15650)|15650|
+|38|Divide and conquer|[222-풀링](https://www.acmicpc.net/problem/17829)|17829|
+|39|Prefix Sum|[2차원 배열의 합](https://www.acmicpc.net/problem/2167)|2167|
+|40|String|[숫자의 합](https://www.acmicpc.net/problem/11720)|11720|
+|41|Shortest Path|[경로 찾기](https://www.acmicpc.net/problem/11403)|11403|
+|42|Topological Sorting|[ACM Craft](https://www.acmicpc.net/problem/1005)|1005|
+|43|Disjoint Set|[여행 가자](https://www.acmicpc.net/problem/1976)|1976|
+|44|Minimum Spanning Tree|[네트워크 연결](https://www.acmicpc.net/problem/1922)|1922|
+|45|Trie|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|2533|
+|46|DP on Tree|[생태학](https://www.acmicpc.net/problem/4358)|4358|
+
