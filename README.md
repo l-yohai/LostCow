@@ -13,8 +13,7 @@ Algorithm study of lost cows
 
 ## Schedule
 
-<details>
-|순서|Tag|문제이름|백준번호|
+<!-- |순서|Tag|문제이름|백준번호|
 |:--:|:--:|:--:|:--:|
 |1|Data Structure|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|1158|
 |2|Data Structure2|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|1620|
@@ -38,8 +37,7 @@ Algorithm study of lost cows
 |20|Disjoint Set|[집합의 표현](https://www.acmicpc.net/problem/1717)|1717|
 |21|Minimum Spanning Tree|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|1197|
 |22|Trie|[문자열 집합](https://www.acmicpc.net/problem/14425)|14425|
-|23|DP on Trees|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|15681|
-</details>
+|23|DP on Trees|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|15681| -->
 
 |순서|Tag|문제이름|백준번호|
 |:--:|:--:|:--:|:--:|
