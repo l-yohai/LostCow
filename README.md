@@ -41,7 +41,6 @@ Algorithm study of lost cows
 
 |순서|Tag|문제이름|백준번호|
 |:--:|:--:|:--:|:--:|
-
 |24|Data Structure|[스택](https://www.acmicpc.net/problem/10828)|10828|
 |25|Data Structure2|[문자열 집합](https://www.acmicpc.net/problem/14425)|14425|
 |26|Tree|[트리 순회](https://www.acmicpc.net/problem/1991)|1991|
