@@ -19,7 +19,6 @@ cnt_length = defaultdict(int)
 start_city = x
 q = deque()
 for next in city_map[x]:
-
     q.append((start_city, next))
 
 while q:
@@ -30,13 +29,14 @@ while q:
 
         for n in city_map[next]:
             q.append((next, n))
+
     else:
         if cnt_length[start] + 1 <= cnt_length[next]:
             cnt_length[next] = cnt_length[start] + 1
             for n in city_map[next]:
                 q.append((next, n))
 
-# print(cnt_length)
+# print(cnt_length) # aa
 
 len_city_dict = defaultdict(list)
 

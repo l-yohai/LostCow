@@ -8,8 +8,8 @@ x = list(map(int, input().split()))
 
 
 """
-x0 (x1 + x2 + ... xn)
-x1 (x2 + x3 + ... xn)
+x0 * (x1 + x2 + ... xn)
+x1 * (x2 + x3 + ... xn)
 .
 .
 .

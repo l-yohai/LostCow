@@ -29,3 +29,5 @@ for _ in range(m):
             print("YES")
         else:
             print("NO")
+
+# https://m.blog.naver.com/ndb796/221230967614
