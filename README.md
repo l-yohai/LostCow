@@ -42,9 +42,9 @@ Algorithm study of lost cows
 |순서|Tag|문제이름|백준번호|
 |:--:|:--:|:--:|:--:|
 |24|Data Structure|[스택](https://www.acmicpc.net/problem/10828)|10828|
-|25|Data Structure2|[문자열 집합](https://www.acmicpc.net/problem/14425)|14425|
+|25|Data Structure2|[최대 힙](https://www.acmicpc.net/problem/11279)|11279|
 |26|Tree|[트리 순회](https://www.acmicpc.net/problem/1991)|1991|
-|27|Math|[피로도](https://www.acmicpc.net/problem/22864)|22864|
+|27|Math|[진법 변환](https://www.acmicpc.net/problem/2745)|2745|
 |28|Greedy|[폴리오미노](https://www.acmicpc.net/problem/1343)|1343|
 |29|DP 1|[설탕 배달](https://www.acmicpc.net/problem/2839)|2839|
 |30|DP 2|[동전](https://www.acmicpc.net/problem/9084)|9084|
