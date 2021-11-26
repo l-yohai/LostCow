@@ -1,7 +1,7 @@
 import sys
 
 input = sys.stdin.readline
-
+# asdfasdf
 test_case = int(input().strip())
 for i in range(test_case):
     n = int(input().strip())
